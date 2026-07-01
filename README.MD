@@ -5,7 +5,7 @@ Building AI-powered software that solves real-world problems.
 </h3>
 
 <p align="center">
-Computer Engineering Student • Full Stack Developer • AI/ML Engineer • Android Developer
+Engineer • Full Stack Developer • AI/ML Engineer • Android Developer
 </p>
 
 <p align="center">
@@ -49,7 +49,7 @@ public:
 > I build systems that learn, automate, and evolve.**
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Proxy939/Proxy939/main/hm.gif" width="900"/>
+<img src="" width="900"/>
 </p>
 
 
